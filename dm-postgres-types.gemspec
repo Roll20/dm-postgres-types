@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Eric Marden"]
   gem.email         = ["eric@xentek.net"]
   gem.summary       = %q{Adds support for native PostgreSQL datatypes to DataMapper}
-  gem.description   = %q{Adds support for native PostgreSQL datatypes, including JSON, HSTORE, and Array to DataMapper}
+  gem.description   = %q{Adds support for native PostgreSQL datatypes, including JSON, JSONB, HSTORE, and Array to DataMapper}
   gem.homepage      = ""
   gem.license       = "MIT"
 
